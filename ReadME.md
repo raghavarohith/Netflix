@@ -2,7 +2,7 @@
 
 Follow these steps to set up and run the Netflix clone application on your local machine:
 
-### 1. Update Package List
+### 1. Update Package List rohith
 
 Run the following commands to update the package list on your system:
 
