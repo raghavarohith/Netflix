@@ -10,7 +10,7 @@ Run the following commands to update the package list on your system:
 sudo apt update
 ```
 
-### 2. Install Required Packages
+### 2. Install Required Packages rohith
 
 Install the necessary packages and dependencies for the application using the following command:
 
