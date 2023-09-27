@@ -18,7 +18,7 @@ Install the necessary packages and dependencies for the application using the fo
 sudo apt install -y curl dirmngr apt-transport-https lsb-release ca-certificates
 ```
 
-### 3. Install Node.js
+### 3. Install Node.js rohith
 
 Install Node.js, a JavaScript runtime, with the following commands:
 
