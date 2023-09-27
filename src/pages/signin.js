@@ -55,7 +55,7 @@ export default function Signin() {
                 </Form.Base>
 
                 <Form.Text>
-                    New to Netflix? <Form.Link to="/signup">rohit now.</Form.Link>
+                    New flix? <Form.Link to="/signup">rohit now.</Form.Link>
                 </Form.Text>
 
                 <Form.TextSmall>
